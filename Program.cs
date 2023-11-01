@@ -5,12 +5,6 @@ namespace binary_clock;
 class Program
 {
 
-    /*
-         "8   ○   ○   ○",
-         "4   ○ ○ ○ ○ ○",
-         "2 ○ ○ ○ ○ ○ ○",
-         "1 ○ ○ ○ ○ ○ ○"    */
-
     static void Main(string[] args)
     {
         string[] orarr = Console.ReadLine().Split(':');
